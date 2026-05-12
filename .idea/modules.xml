@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/shapely2graph.iml" filepath="$PROJECT_DIR$/.idea/shapely2graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pylib2graph.iml" filepath="$PROJECT_DIR$/.idea/pylib2graph.iml" />
     </modules>
   </component>
 </project>
